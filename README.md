@@ -55,7 +55,7 @@ This project is a Flask-based web application that predicts the risk of a heart 
 
 2. **Start the Flask server:**
    ```bash
-   python Heart_attack_FLASK .py
+   python Heart_attack_FLASK.py
    ```
 3. **Access the web application:**
    Open your browser and go to:
@@ -70,13 +70,13 @@ This project is a Flask-based web application that predicts the risk of a heart 
 ```
 your-repository-name/
 │
-├── app.py                 # Flask application script
-├── classifier.pkl         # Pre-trained machine learning model
-├── requirements.txt       # List of Python dependencies
+├── Heart_attack_FLASK.py        # Flask application script
+├── classifier.pkl               # Pre-trained machine learning model
+├── requirements.txt             # List of Python dependencies
 ├── templates/
-│   └── front.html         # HTML template for the web app (plain design)
-│   └──front2.html         # HTML template for the web app (better design)
-└── README.md              # Project documentation
+│   └── front.html               # HTML template for the web app (plain design)
+│   └──front2.html               # HTML template for the web app (better design)
+└── README.md                    # Project documentation
 ```
 ---
 ### Contributions
