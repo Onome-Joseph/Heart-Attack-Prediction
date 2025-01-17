@@ -20,11 +20,7 @@ This project is a Flask-based web application that predicts the risk of a heart 
    ```bash
    git clone https://github.com/Onome-Joseph/Heart-Attack-Prediction.git
    ```
-2. **Navigate to the project directory:**
-   ```bash
-   cd Heart-Attack-Prediction
-   ```
-3. **Create a virtual environment (recommended):**
+2. **Create a virtual environment (recommended):**
    ```bash
    python -m venv venv
    ```
@@ -38,7 +34,7 @@ This project is a Flask-based web application that predicts the risk of a heart 
      source venv/bin/activate
      ```
 
-4. **Install required dependencies:**
+3. **Install required dependencies:**
    ```bash
     python
     !pip install Flask
