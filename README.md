@@ -72,6 +72,7 @@ your-repository-name/
 ├── templates/
 │   └── front.html               # HTML template for the web app (plain design)
 │   └──front2.html               # HTML template for the web app (better design)
+├── App preview                  # Layout of the frontend design (front2)
 └── README.md                    # Project documentation
 ```
 ---
