@@ -9,6 +9,8 @@ This project implements a Heart Attack Prediction Machine Learning Model that es
 
 # Heart Attack Risk Prediction Flask App
 This project is a Flask-based web application that predicts the risk of a heart attack based on user input. The prediction is powered by a machine learning model.
+---
+![Screenshot of the Heart Attack Prediction Model](https://github.com/Onome-Joseph/Heart-Attack-Prediction/blob/main/App%20preview.jpeg)
 
 ## Features
 - Interactive form to input patient details.
