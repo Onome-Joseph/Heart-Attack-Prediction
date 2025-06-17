@@ -53,7 +53,7 @@ This project is a Flask-based web application that predicts the risk of a heart 
 
 2. **Start the Flask server:**
    ```bash
-   python Heart_attack_FLASK.py
+   app.py
    ```
 3. **Access the web application:**
    Open your browser and go to:
